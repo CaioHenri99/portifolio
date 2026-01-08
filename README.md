@@ -1,7 +1,8 @@
 # Olá, eu sou o Caio Henrique! 👋
 
 Bem-vindo ao repositório do meu portfólio pessoal. Aqui você encontrará a vitrine dos meus projetos e as tecnologias que utilizo para transformar dados em insights.
-[![Site Portfolio](https://img.shields.io/badge/Acesse_meu_site-Click_Aqui-blue?style=for-the-badge&logo=github)](https://caiohenri99.github.io/portifolio/)
+
+- [![Site Portfolio](https://img.shields.io/badge/Acesse_meu_site-Click_Aqui-blue?style=for-the-badge&logo=github)](https://caiohenri99.github.io/portifolio/)
 
 ## 🚀 Sobre Mim
 - 🎓 Graduando em **Ciência de Dados e Inteligência Artificial**.
@@ -32,7 +33,7 @@ Bem-vindo ao repositório do meu portfólio pessoal. Aqui você encontrará a vi
 - Python Aplicado
 
 ## 📬 Vamos nos conectar?
-- **LinkedIn:** [[linkedin.com/caio-henrique7](https://www.linkedin.com/in/caio-henrique7/)
+- **LinkedIn:** [linkedin.com/caio-henrique7](https://www.linkedin.com/in/caio-henrique7/)
 - **Instagram:** [@orecantofc](https://instagram.com/orecantofc)
 - **GitHub:** [github.com/CaioHenri99](https://github.com/CaioHenri99)
 
