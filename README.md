@@ -34,7 +34,7 @@ Bem-vindo ao repositório do meu portfólio pessoal. Aqui você encontrará a vi
 
 ## 📬 Vamos nos conectar?
 - **LinkedIn:** [linkedin.com/caio-henrique7](https://www.linkedin.com/in/caio-henrique7/)
-- **Instagram:** [@orecantofc](https://instagram.com/orecantofc)
+- **Instagram:** [@caioandrade.ia](https://instagram.com/caioandrade.ia)
 - **GitHub:** [github.com/CaioHenri99](https://github.com/CaioHenri99)
 
 ---
